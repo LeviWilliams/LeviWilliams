@@ -1,5 +1,3 @@
-![hackz](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXFoZGdmZTdjOXhhNmp5Z3kza3dleWl6enFqYWo1b2F3YmY3bHJ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp)
-
 ### 👋 Thanks for stopping by  
 Learn more about me on [my website](https://www.leviwilliams.dev/)
 
